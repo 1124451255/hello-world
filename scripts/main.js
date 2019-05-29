@@ -12,7 +12,7 @@ myImage.onclick = function() {
     }
 }
 
-function setHeading(name) {
+/*function setHeading(name) {
   let myHeading = document.querySelector('h1');
   myHeading.textContent = 'Mozilla 酷毙了，' + name + '！';
 }
@@ -32,3 +32,4 @@ if(!storedName) {
 
 let myButton = document.querySelector('button'); 
 myButton.onclick = setUserName;
+*/
